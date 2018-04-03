@@ -1,0 +1,10 @@
+.settings
+.classpath
+.project
+.externalToolBuilders
+.iml
+.idea
+*.iml
+*.log*
+target
+/pom.xml
